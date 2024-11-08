@@ -14,6 +14,8 @@ Game Features: This game is simple and intuitive, it is easy to operate and suit
 
 Challenging: As time progresses, the generation speed and movement speed of obstacles will gradually increase, enhancing the challenge of the game. 
 
-Graphical Interface: The game features a clear graphical interface, allowing players to see the car and obstacles clearly. Game Objective The main objective of the game is to test the player's reaction speed and coordination. Players need to make quick decisions to avoid collisions with obstacles, thereby surviving longer in the game.
+Graphical Interface: The game features a clear graphical interface, allowing players to see the car and obstacles clearly. 
+
+Game Objective: The main objective of the game is to test the player's reaction speed and coordination. Players need to make quick decisions to avoid collisions with obstacles, thereby surviving longer in the game.
 
 Run demo.py to start playing, befor run this game, the user need to install pygame, used command *pip install pygame* in cmd to install. 
